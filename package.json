@@ -1,0 +1,20 @@
+{
+  "name": "answers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EDAUAVPA/hackathon-v3.git"
+  },
+  "keywords": [],
+  "author": "Eduardo Avalos Palacios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EDAUAVPA/hackathon-v3/issues"
+  },
+  "homepage": "https://github.com/EDAUAVPA/hackathon-v3#readme",
+  "description": "Respuestas para el Hackathon v3"
+}
