@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EDAUAVPA/hackathon-v3.git"
+    "url": "git+https://github.com/EDAUAVPA/hackathon-scaperoom.git"
   },
   "keywords": [],
   "author": "Eduardo Avalos Palacios",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EDAUAVPA/hackathon-v3/issues"
+    "url": "https://github.com/EDAUAVPA/hackathon-scaperoom/issues"
   },
-  "homepage": "https://github.com/EDAUAVPA/hackathon-v3#readme",
-  "description": "Respuestas para el Hackathon v3"
+  "homepage": "https://github.com/EDAUAVPA/hackathon-scaperoom#readme",
+  "description": "Respuesta para el scaperoom Hackathon v3"
 }
